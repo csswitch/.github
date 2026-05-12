@@ -1,8 +1,7 @@
 # csswitch 🎨
 
 > **Premium Jekyll themes for GitHub Pages** — distinctive, opinionated, zero Bootstrap.
-
-We make themes developers actually want to use.
+> We make themes developers actually want to use.
 
 ---
 
@@ -20,6 +19,7 @@ We make themes developers actually want to use.
 | **Dashboard** | OS dashboard — window chrome, taskbar UI | [▶ Live demo](https://csswitch.github.io/jekyll-dashboard-theme/) | [repo](https://github.com/csswitch/jekyll-dashboard-theme) |
 | **Vaporwave** | 90s vaporwave — pastel gradients, retro grids | [▶ Live demo](https://csswitch.github.io/jekyll-vaporwave-theme/) | [repo](https://github.com/csswitch/jekyll-vaporwave-theme) |
 | **Manuscript** | Writer's notebook — serif, ink texture, clean | [▶ Live demo](https://csswitch.github.io/jekyll-manuscript-theme/) | [repo](https://github.com/csswitch/jekyll-manuscript-theme) |
+| **Ledger** | Accounting ledger — columnar layout, finance-ready | [▶ Live demo](https://csswitch.github.io/jekyll-ledger-theme/) | [repo](https://github.com/csswitch/jekyll-ledger-theme) |
 
 ---
 
